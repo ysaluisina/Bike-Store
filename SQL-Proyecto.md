@@ -1,4 +1,4 @@
-# ANÁLISIS DE VENTAS DE BICICLETAS 
+# ANÁLISIS DE NEGOCIO: VENTAS DE BICICLETAS 
 ## MÉTRICAS GENERALES DEL NEGOCIO
 
 **1) Mostrar totales de productos, clientes, órdenes y tiendas**
