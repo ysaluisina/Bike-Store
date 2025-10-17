@@ -1,2 +1,9 @@
 # Bike-Store
-El proyecto está enforcado en el análisis descriptivo y diagnóstico de los datos de una tienda de ventas de bicicletas, utilizando SQL Server.
+Este proyecto forma parte de mi portfolio de análisis de datos.
+A partir de una base de datos ficticia de ventas de bicicletas realice consultas SQL enfocadas en un análisis descriptivo y diagnóstico de los datos aplicando conceptos de BI.
+
+## Tecnologías utilizadas:
+ - SQL Server Management Studio (SSMS)
+ - Lenguaje SQL estándar
+ - Funciones de agregación, subconsultas: CTE, JOIN, VIEW, CASE, ROUND, DATEPART, HAVING.
+
